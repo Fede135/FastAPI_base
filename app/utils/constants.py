@@ -1,0 +1,1 @@
+FOOTBALL_URL = "https://api.football-data.org/{}/"
